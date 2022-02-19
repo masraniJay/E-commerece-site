@@ -1,0 +1,89 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.content{
+    margin: 6rem 0rem;
+}
+
+.navigation{
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    z-index: 1;
+    border-radius: 0;
+    box-shadow: none;
+}
+
+.catogeries{
+    margin: 1rem;
+    display: flex;
+    justify-content: center;
+}
+
+.card-category{
+    height: 10rem;
+    width: 10rem;
+}
+
+.position{
+    display: flex;
+    justify-content: center;
+}
+
+.card-image-2{
+    height: 10rem;
+    width: 10rem;
+}
+
+.absolute{
+    background-color: var(--primary-color);
+    color: var(--white-color);
+    width: 100%;
+    text-align: center;
+    bottom: 4rem;
+}
+
+.banner{
+    margin: 1rem;
+}
+
+.banner-img{
+    height: auto;
+    width: 100%;
+}
+
+.heading{
+   text-align: center;
+   margin: 1rem;
+}
+
+.card-new-arrival{
+    background-color: var(--white-color);
+    padding: 0.5rem;
+    max-width: 24rem;
+    display: flex;
+    flex-direction: row;
+}
+
+.card-image{
+    max-width: 10rem;
+}
+
+.new-arrivals{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    margin: 1rem 8rem;
+}
+
+.card-title{
+    text-align: center;
+}
+
+a{
+    color: var(--white-color);
+}
