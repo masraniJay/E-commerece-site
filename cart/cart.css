@@ -99,6 +99,7 @@ a {
 }
 
 .card-checkout {
+    background-color: var(--white-color);
     width: 18rem;
 }
 
