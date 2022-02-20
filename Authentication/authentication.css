@@ -1,0 +1,76 @@
+.navigation {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    z-index: 1;
+    border-radius: 0;
+    box-shadow: none;
+}
+
+.content {
+    margin: 6rem 0rem;
+}
+
+
+a {
+    color: var(--white-color);
+}
+
+.login-page {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.auth-card {
+    width: 30rem;
+    background-color: var(--white-color);
+}
+
+.card-title {
+    text-align: center;
+}
+
+.card-title h2 {
+    color: var(--primary-color);
+}
+
+.login-form {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.form-item {
+    margin: 0.5rem;
+}
+
+.remember-me {
+    margin-left: 3.3rem;
+}
+
+.terms {
+    margin-left: 2rem;
+}
+
+.product-button {
+    width: 100%;
+    padding: 0.5rem;
+    cursor: pointer;
+    background-color: var(--primary-color);
+    color: var(--white-color);
+    border: none;
+}
+
+.card-footer {
+    flex-direction: column;
+}
+
+.signup {
+    text-align: center;
+    margin: 0.5rem;
+    cursor: pointer;
+    color: var(--primary-color);
+    text-decoration: underline;
+}
