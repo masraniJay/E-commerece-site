@@ -3,7 +3,7 @@ Online solution for all your fashion & lifestyle needs.
 
 ---
 
-### Feather Store have to following pages yet.
+### Feather Store have the following pages yet.
 
 - [Home page]()
 - [Product listing page]()
